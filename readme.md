@@ -1,5 +1,5 @@
 
-## Detta projekt innehåller ett försök till att förutsäga utveckling för enskilda aktier på börsen
+## Detta är ett försök till att förutsäga utveckling för enskilda aktier på börsen
 
 --------------------------------
 
@@ -7,7 +7,6 @@
 1. Starta main.py
 Se till att köra python 2.7 som finns -> anaconda/bin/python
 
-Steg i ML
 1. Ladda data att träna på.
 2. Dela upp data i träningsdata och testdata som vi använder för att träna och för att testa modellen
 3. Städa datan, konvertera till datatyp, finns null eller andra felaktiga data? Då kan vi lösa det på olika sätt, t.ec medelåder om ålder saknas etc.
